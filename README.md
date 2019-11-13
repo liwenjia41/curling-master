@@ -20,4 +20,4 @@ If you want to contribute to models, be sure to review the [contribution guideli
 
 ## Supplement!!!!!
 
-you can find 【curling-master】 in /research/my_object_detection
+You can find 【curling-master】 in [my_object_detection folder](https://github.com/tensorflow/models/tree/master/research)
