@@ -17,3 +17,7 @@ If you want to contribute to models, be sure to review the [contribution guideli
 ## License
 
 [Apache License 2.0](LICENSE)
+
+## Supplement!!!!!
+
+you can find 【curling-master】 in /research/my_object_detection
