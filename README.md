@@ -1,10 +1,4 @@
-# Supplement!!!!!
-
-You can find 【curling-master】 in [my_object_detection folder](https://github.com/liwenjia41/curling-master/tree/master/research).
-
-Curling samples with labels can be downloaded in [BaiduYun](https://pan.baidu.com/s/1nnS1VX8XTQrZhj2ED_9XiA).
-
-## TensorFlow Models
+# TensorFlow Models
 
 This repository contains a number of different models implemented in [TensorFlow](https://www.tensorflow.org):
 
@@ -24,3 +18,16 @@ If you want to contribute to models, be sure to review the [contribution guideli
 
 [Apache License 2.0](LICENSE)
 
+## Supplement!!!!!
+
+You can find 【curling-master】 in [my_object_detection folder](https://github.com/liwenjia41/curling-master/tree/master/research/my_object_detection).
+
+Curling samples with labels can be downloaded：
+    
+-   1.[BaiduYun](https://pan.baidu.com/s/1nnS1VX8XTQrZhj2ED_9XiA).
+
+    注意：该样本集标注框只标注了冰壶上表盖处的区域，没有整体冰壶的标注信息
+    
+-   2....
+
+    待定：标注了整体冰壶的一部分数据，稍后上传
