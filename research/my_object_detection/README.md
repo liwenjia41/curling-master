@@ -64,15 +64,20 @@
     ```
     num_classes: 90  ==>  num_classes: 1(only curling)
     
+    
     fine_tune_checkpoint: "PATH_TO_BE_CONFIGURED/model.ckpt"  ==>  fine_tune_checkpoint: "my_pretrained_model/model.ckpt"
     
-    (Optional)# data_augmentation_options {
-    					# 	random_horizontal_flip {
-        			# 	}
-      				# }
-      				
+    
+    (Optional)
+    # data_augmentation_options {
+    # 	random_horizontal_flip {
+    # 	}
+    # }
+      			
+            
     num_steps: 200000  ==>  (whatever you want)
-      				
+      		
+          
     train_input_reader: {
       tf_record_input_reader {
         input_path: "PATH_TO_BE_CONFIGURED/mscoco_train.record-?????-of-00100"
@@ -86,6 +91,7 @@
       }
       label_map_path: "/path/to/label_map.pbtxt"
     }
+    
     
     eval_input_reader: {
       tf_record_input_reader {
