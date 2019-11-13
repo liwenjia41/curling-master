@@ -1,12 +1,10 @@
 ## Curling Detection
 
-Setup：
+### Setup：
 
 - [Installation](https://github.com/liwenjia41/curling-master/blob/master/research/object_detection/g3doc/installation.md)
 
-
-
-Samples Prepare:
+### Samples Prepare:
 
 - Download existing dataset
   - [BaiduYun](https://pan.baidu.com/s/1TWD2H2ELDl7cqHAh9PU7eQ)
@@ -41,9 +39,7 @@ Samples Prepare:
   python generate_tfrecord.py --csv_input=data/test_labels.csv --output_path=test.record --dir=images
   ```
 
-
-
-Training:
+### Training:
 
 - Download [pretrained models](https://github.com/liwenjia41/curling-master/blob/master/research/object_detection/g3doc/detection_model_zoo.md)
   - Put models in your directory (eg. my_pretrained_model)
@@ -125,7 +121,7 @@ Training:
 
 
 
-Test:
+### Test:
 
 ```
 # detect one image using trained model:
