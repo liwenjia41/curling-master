@@ -20,5 +20,6 @@ If you want to contribute to models, be sure to review the [contribution guideli
 
 ## Supplement!!!!!
 
-You can find 【curling-master】 in [my_object_detection folder](https://github.com/liwenjia41/curling-master/tree/master/research)
-Curling samples with labels can be downloaded in [BaiduYun](https://pan.baidu.com/s/16LuXuAltbhOEEBSIQRBiUA)
+You can find 【curling-master】 in [my_object_detection folder](https://github.com/liwenjia41/curling-master/tree/master/research).
+
+Curling samples with labels can be downloaded in [BaiduYun](https://pan.baidu.com/s/16LuXuAltbhOEEBSIQRBiUA).
